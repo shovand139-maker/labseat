@@ -1,0 +1,11 @@
+bin/
+obj/
+TestResults/
+*.user
+.vs/
+web/node_modules/
+web/dist/
+web/.angular/
+web/coverage/
+.DS_Store
+Thumbs.db
